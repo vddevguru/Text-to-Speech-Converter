@@ -17,9 +17,7 @@ A lightweight, browser-based **Text-to-Speech (TTS)** converter built with **HTM
 
 - 🔊 Convert typed text into spoken words instantly
 - 🌍 Supports multiple **languages and voice options**
-- 🎛️ Voice selection dropdown auto-populates available voices
 - ⚡ No frameworks, no external dependencies – all **vanilla JS**
-- 📱 Responsive design – works on both desktop and mobile browsers
 
 ---
 
@@ -40,6 +38,7 @@ This project is licensed under the **MIT License**
 
 ## 📸 Preview
 
+![image](https://github.com/user-attachments/assets/0f46c376-8357-4fc0-9860-aa63676adf11)
 
 
 ---
